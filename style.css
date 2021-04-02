@@ -1,0 +1,130 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #00BFFF;
+    margin-left: 30%;
+}
+
+#GamingText {
+    color: #FF0000
+}
+
+#ExitImg {
+    width: 1000px;
+    height: 100px
+}
+
+p {
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    font-family: 'Nunito', sans-serif;
+}
+
+li {
+    display: inline;
+    margin-left: 2px;
+}
+
+
+li:hover {
+    background-color: red;
+}
+
+#About {
+    font-size: 20px;
+    color: red;
+    max-width: 450px;
+    margin: auto;
+    margin-top: 100px
+}
+
+
+
+.ques {
+    font-size: 30px;
+    color: black;
+    margin: auto;
+
+}
+
+.answer {
+    color: blue;
+    font-size: 20px;
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.game {
+    margin-top: 200px;
+}
+
+.inspire {
+    margin-top: 200px;
+}
+
+.contactme {
+    margin-top: 200px;
+}
+
+.thanku {
+    margin: auto;
+    font-size: 30px;
+    margin-top: 100px;
+    color: black
+}
+
+.niceday {
+    color: deeppink
+}
+
+.para {
+    font-size: 20px;
+}
+
+.img {
+    width: 1000;
+    height: 250
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+#yt {
+    font-family: "Apple Chancery", cursive;
+    font-size: 30px;
+    color: blue;
+}
+
+.youtuber {
+    transition: transform .2s;
+    
+    
+}
+
+
+ .youtuber img:hover {
+    transform: scale(1.1);
+}
+
+
